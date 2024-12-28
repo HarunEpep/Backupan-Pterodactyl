@@ -19,9 +19,9 @@ display_welcome() {
   echo -e "It is strictly forbidden to sell tokens, installation scripts, or theme files contained in this script. If anyone is selling, please report to the telegram below"
   echo -e ""
   echo -e "𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 :"
-  echo -e "@jayaeditz_26"
+  echo -e "@RonzXoffc"
   echo -e "𝗖𝗥𝗘𝗗𝗜𝗧𝗦 :"
-  echo -e "@foxstore"
+  echo -e "@RonzXOffc"
   sleep 4
   clear
 }
