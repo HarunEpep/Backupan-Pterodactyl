@@ -7,7 +7,7 @@
 ## Command Install :
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/HarunEpep/Backupan-Pterodactyl/refs/heads/main/Install.sh)
+bash <(curl -s https://raw.githubusercontent.com/HarunEpep/Backupan-Pterodactyl/main/Install.sh)
 ```
 
 ## Fitur Tools :
