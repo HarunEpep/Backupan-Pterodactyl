@@ -17,7 +17,7 @@ bash <(curl -s https://raw.githubusercontent.com/SkyzoOffc/Pterodactyl-Theme-Aut
 - Install Tema Enigma
 - Uninstall Tema
 
- (Token Code : tbhkoffc)
+ (Token Code : ronzoffc)
 
 ## System Support :
 
