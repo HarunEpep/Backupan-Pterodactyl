@@ -62,7 +62,7 @@ check_token() {
     echo -e "${GREEN}ACCESS GRANTED${NC}}"
   else
     echo -e "${RED}WRONG TOKEN. PLEASE RE-ENTER THE TOKEN${NC}"
-    echo -e "${YELLOW}TOKEN: ronzxoffc${NC}"
+    echo -e "${YELLOW}TOKEN:ronzxoffc${NC}"
     exit 1
   fi
   clear
