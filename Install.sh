@@ -214,7 +214,7 @@ uninstall_theme() {
   echo -e "${BLUE}[+]                    PTERODACTYL THEME REMOVAL                 [+]${NC}"
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "                                                       "
-  bash <(curl https://raw.githubusercontent.com/VallzHost/installer-theme/main/repair.sh)
+  bash <(curl https://raw.githubusercontent.com/HarunEpep/Backupan-Pterodactyl/main/repair.sh)
   echo -e "                                                       "
   echo -e "${GREEN}[+] =============================================== [+]${NC}"
   echo -e "${GREEN}[+]                 PTERODACTYL THEME REMOVAL SUCCESSFUL             [+]${NC}"
@@ -413,9 +413,9 @@ while true; do
   echo -e "${RED}  ,ggggg        gggggggg.                                 ${NC}"
   echo -e "${RED} ,ggg'               'ggg.                                ${NC}"
   echo -e "${RED}',gg       ,ggg.      'ggg:                               ${NC}"
-  echo -e "${RED}'ggg      ,gg'''  .    ggg       Auto Installer Tbhk   ${NC}"
+  echo -e "${RED}'ggg      ,gg'''  .    ggg       Auto Installer RonzXOffc   ${NC}"
   echo -e "${RED}gggg      gg     ,     ggg      ------------------------  ${NC}"
-  echo -e "${RED}ggg:     gg.     -   ,ggg       • Telegram : jayaeditz_26      ${NC}"
+  echo -e "${RED}ggg:     gg.     -   ,ggg       • Telegram : RonzXoffc      ${NC}"
   echo -e "${RED} ggg:     ggg._    _,ggg        • Credit  : TbhkOffc  ${NC}"
   echo -e "${RED} ggg.    '.'''ggggggp           • Support by Tbhk  ${NC}"
   echo -e "${RED}  'ggg    '-.__                                           ${NC}"
